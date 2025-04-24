@@ -1,6 +1,3 @@
-# SnakeGame
-
-
 # 🐍 Snake Game (Turtle Edition)
 
 A classic **Snake game** built in Python using the `turtle` graphics module. Eat food to grow your snake and avoid crashing into yourself. This version includes **blinking food**, **animated snake movement**, and intuitive arrow-key controls!
